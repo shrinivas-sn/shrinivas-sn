@@ -6,6 +6,11 @@
 
 Building modern web applications with a focus on clean code, user experience, and problem-solving using AI assistance.
 
+<div align="center">
+  <h3>🔥 My GitHub Contributions</h3>
+  <img src="https://ghchart.rshah.org/shrinivas-sn" alt="Shrinivas's GitHub chart" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-nemagoudar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinusn2001@gmail.com)

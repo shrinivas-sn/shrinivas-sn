@@ -16,7 +16,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 ## 🎯 About Me
 
-I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex problems efficiently. Currently exploring modern web technologies and best practices as I grow in my development journey.
+I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex problems.
 
 ---
 
@@ -29,9 +29,9 @@ I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### **Backend & Database**
+### **Backend Used**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

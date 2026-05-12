@@ -6,19 +6,15 @@
 
 Building modern web applications with a focus on clean code, user experience, and problem-solving using AI assistance.
 
-<div align="center">
-  <h3>🔥 My GitHub Contributions</h3>
+<h3>🔥 My GitHub Contributions</h3>
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </div>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-nemagoudar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
@@ -30,7 +26,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 ## 🎯 About Me
 
-I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex [...]
+I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex problems.
 
 ---
 

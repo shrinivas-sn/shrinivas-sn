@@ -16,7 +16,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 ## 🎯 About Me
 
-I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex problems.
+I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex [...]
 
 ---
 
@@ -49,20 +49,19 @@ A comprehensive interactive web application designed to help school teachers man
 - **Features:** Student database management, real-time access, responsive design
 - **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/Student-portal-web-app)
 
-### 2. **Expense Tracker App** 💰
-A simple yet effective expense tracking application using vanilla JavaScript. Perfect for learning DOM manipulation and local storage.
+### 2. **Budget-Buddy** 💰
+A React-based personal finance management application designed to help users track their spending, manage budgets, and achieve their financial goals with ease.
 
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Add/track expenses, categorization, real-time calculations
-- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/expense-tracker-app)
-- **Stars:** ⭐1 | **Forks:** 🍴1
+- **Tech Stack:** React, JavaScript
+- **Features:** Budget tracking, expense categorization, financial insights, responsive design
+- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/budget-buddy)
 
-### 3. **Wellness Companion App** 🧘‍♀️
-A React Native mobile application that serves as your daily wellness companion, helping users maintain their health and wellness routines.
+### 3. **Prompt Perfector** ✨
+A React application that helps users refine and optimize their AI prompts for better results. Perfect for anyone working with AI tools and looking to improve their prompt engineering skills.
 
-- **Tech Stack:** React Native, JavaScript
-- **Features:** Daily wellness tracking, routine reminders, mobile-first design
-- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/wellness-companion-app)
+- **Tech Stack:** React, JavaScript
+- **Features:** Prompt optimization, real-time suggestions, AI integration, user-friendly interface
+- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/prompt-perfector)
 
 ---
 
@@ -118,15 +117,3 @@ I'm always open to:
 - 🐙 **GitHub:** [@shrinivas-sn](https://github.com/shrinivas-sn)
 
 ---
-
-## 📝 Fun Fact
-
-I believe that **combining human creativity with AI assistance** is the future of web development! 🤖✨
-
----
-
-<div align="center">
-
-### Made with ❤️ by Shrinivas | Always Learning 🚀
-
-</div>

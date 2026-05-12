@@ -1,16 +1,132 @@
-## Hi there 👋
+# 👋 Hi, I'm Shrinivas!
 
-<!--
-**shrinivas-sn/shrinivas-sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Web Developer | AI-Native Problem Solver 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building modern web applications with a focus on clean code, user experience, and problem-solving using AI assistance.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrinivas-sn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinusn2001@gmail.com)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex problems efficiently. Currently exploring modern web technologies and best practices as I grow in my development journey.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### **Backend & Database**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 📚 Featured Projects
+
+### 1. **Student Portal Web App** 📚
+A comprehensive interactive web application designed to help school teachers manage and access student information efficiently from anywhere.
+
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Student database management, real-time access, responsive design
+- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/Student-portal-web-app)
+
+### 2. **Expense Tracker App** 💰
+A simple yet effective expense tracking application using vanilla JavaScript. Perfect for learning DOM manipulation and local storage.
+
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Add/track expenses, categorization, real-time calculations
+- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/expense-tracker-app)
+- **Stars:** ⭐1 | **Forks:** 🍴1
+
+### 3. **Wellness Companion App** 🧘‍♀️
+A React Native mobile application that serves as your daily wellness companion, helping users maintain their health and wellness routines.
+
+- **Tech Stack:** React Native, JavaScript
+- **Features:** Daily wellness tracking, routine reminders, mobile-first design
+- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/wellness-companion-app)
+
+---
+
+## 🌱 Learning Journey
+
+I'm continuously expanding my skills through:
+
+- **React.js Learning** - Building interactive UIs and understanding component-based architecture
+- **React Native Development** - Creating cross-platform mobile applications
+- **JavaScript Fundamentals** - Mastering core concepts for better problem-solving
+- **Web Development Best Practices** - Following industry standards and clean code principles
+
+---
+
+## 🚀 My Approach
+
+### Problem-Solving Strategy
+1. **Understand the Problem** - Break down requirements clearly
+2. **AI-Assisted Development** - Leverage AI tools for faster prototyping and solutions
+3. **Implementation** - Write clean, readable, and maintainable code
+4. **Testing & Refinement** - Ensure quality and performance
+
+### Development Philosophy
+- 🎯 Focus on **user experience** first
+- 💡 Use **AI tools** to accelerate learning and development
+- 📝 Write **clean and readable** code
+- 🔄 Embrace **continuous learning** and improvement
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/shrinivas-sn?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/shrinivas-sn?style=social)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to:
+- 💬 Collaborating on web development projects
+- 🐛 Solving interesting problems together
+- 📖 Sharing knowledge and learning from others
+- 🚀 Discussing AI-assisted development practices
+
+### Reach Out:
+- 📧 **Email:** shrinusn2001@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/shrinivas-sn](https://linkedin.com/in/shrinivas-sn)
+- 🐙 **GitHub:** [@shrinivas-sn](https://github.com/shrinivas-sn)
+
+---
+
+## 📝 Fun Fact
+
+I believe that **combining human creativity with AI assistance** is the future of web development! 🤖✨
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Shrinivas | Always Learning 🚀
+
+</div>

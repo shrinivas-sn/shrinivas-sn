@@ -64,14 +64,14 @@ A React-based personal finance management application designed to help users tra
 
 - **Tech Stack:** React, JavaScript
 - **Features:** Budget tracking, expense categorization, financial insights, responsive design
-- **This Repository is Private Repository
+- **This Repository is Private Repository**
 
 ### 3. **Prompt Perfector** ✨
 A React application that helps users refine and optimize their AI prompts for better results. Perfect for anyone working with AI tools and looking to improve their prompt engineering skills.
 
 - **Tech Stack:** React, JavaScript
 - **Features:** Prompt optimization, real-time suggestions, AI integration, user-friendly interface
-- **This Repository is Private Repository
+- **This Repository is Private Repository**
 
 ---
 

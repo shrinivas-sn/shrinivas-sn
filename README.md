@@ -6,7 +6,7 @@
 
 Building modern web applications with a focus on clean code, user experience, and problem-solving using AI assistance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrinivas-sn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-nemagoudar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinusn2001@gmail.com)
 
@@ -114,7 +114,7 @@ I'm always open to:
 
 ### Reach Out:
 - 📧 **Email:** shrinusn2001@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/shrinivas-sn](https://linkedin.com/in/shrinivas-sn)
+- 💼 **LinkedIn:** [linkedin.com/in/shrinivas-sn](https://www.linkedin.com/in/shrinivas-nemagoudar/)
 - 🐙 **GitHub:** [@shrinivas-sn](https://github.com/shrinivas-sn)
 
 ---

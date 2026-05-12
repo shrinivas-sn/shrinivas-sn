@@ -8,9 +8,9 @@ Building modern web applications with a focus on clean code, user experience, an
 
 <div align="center">
   <h3>🔥 My GitHub Contributions</h3>
-  
+
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrinivas-sn&show_icons=true&theme=dark" alt="Shrinivas's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true" alt="GitHub Streak" />
   </div>
   
   <picture>

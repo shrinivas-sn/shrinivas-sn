@@ -57,21 +57,21 @@ A comprehensive interactive web application designed to help school teachers man
 
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Student database management, real-time access, responsive design
-- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/Student-portal-web-app)
+- **Repository Link:** [GitHub Repository](https://github.com/shrinivas-sn/Student-portal-web-app)
 
 ### 2. **Budget-Buddy** 💰
 A React-based personal finance management application designed to help users track their spending, manage budgets, and achieve their financial goals with ease.
 
 - **Tech Stack:** React, JavaScript
 - **Features:** Budget tracking, expense categorization, financial insights, responsive design
-- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/budget-buddy)
+- **This Repository is Private Repository
 
 ### 3. **Prompt Perfector** ✨
 A React application that helps users refine and optimize their AI prompts for better results. Perfect for anyone working with AI tools and looking to improve their prompt engineering skills.
 
 - **Tech Stack:** React, JavaScript
 - **Features:** Prompt optimization, real-time suggestions, AI integration, user-friendly interface
-- **Live Demo & Code:** [GitHub Repository](https://github.com/shrinivas-sn/prompt-perfector)
+- **This Repository is Private Repository
 
 ---
 

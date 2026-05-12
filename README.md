@@ -8,6 +8,11 @@ Building modern web applications with a focus on clean code, user experience, an
 
 <div align="center">
   <h3>🔥 My GitHub Contributions</h3>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrinivas-sn&show_icons=true&theme=dark" alt="Shrinivas's GitHub Stats" />
+  </div>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake.svg">

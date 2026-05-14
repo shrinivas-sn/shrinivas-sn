@@ -8,7 +8,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 <h3>🔥 My GitHub Contributions</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true&v=3" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
@@ -16,9 +16,9 @@ Building modern web applications with a focus on clean code, user experience, an
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<a href="https://www.linkedin.com/in/shrinivas-nemagoudar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/shrinivas-sn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:shrinusn2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-nemagoudar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinusn2001@gmail.com)
 
 </div>
 
@@ -33,20 +33,20 @@ I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on 
 ## 🛠️ Tech Stack
 
 ### **Frontend Development**
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /></a>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
 
 ### **Backend Used**
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /></a>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ### **Tools & Platforms**
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></a>
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ---
 
@@ -57,7 +57,7 @@ A comprehensive interactive web application designed to help school teachers man
 
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Student database management, real-time access, responsive design
-- **Repository Link:** <a href="https://github.com/shrinivas-sn/Student-portal-web-app" target="_blank">GitHub Repository</a>
+- **Repository Link:** [GitHub Repository](https://github.com/shrinivas-sn/Student-portal-web-app)
 
 ### 2. **Budget-Buddy** 💰
 A React-based personal finance management application designed to help users track their spending, manage budgets, and achieve their financial goals with ease.
@@ -123,7 +123,7 @@ I'm always open to:
 
 ### Reach Out:
 - 📧 **Email:** shrinusn2001@gmail.com
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/shrinivas-nemagoudar/" target="_blank">linkedin.com/in/shrinivas-nemagoudar</a>
-- 🐙 **GitHub:** <a href="https://github.com/shrinivas-sn" target="_blank">@shrinivas-sn</a>
+- 💼 **LinkedIn:** [linkedin.com/in/shrinivas-nemagoudar](https://www.linkedin.com/in/shrinivas-nemagoudar/)
+- 🐙 **GitHub:** [@shrinivas-sn](https://github.com/shrinivas-sn)
 
 ---

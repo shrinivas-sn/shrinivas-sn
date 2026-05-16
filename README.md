@@ -8,7 +8,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 <h3>🔥 My GitHub Contributions</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true&v=6" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true&v=7" alt="GitHub Streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinivas-sn/shrinivas-sn/output/github-contribution-grid-snake-dark.svg">

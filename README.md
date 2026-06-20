@@ -2,7 +2,7 @@
 
 <div align="center">
 
-###AI-Native Problem Developer🚀
+AI-Native Developer🚀
 
 Building modern web applications with a focus on clean code, user experience, and problem-solving using AI assistance.
 

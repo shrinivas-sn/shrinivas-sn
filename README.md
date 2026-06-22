@@ -21,7 +21,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 ## 🎯 About Me
 
-I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex problems.
+I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex [...]
 
 ---
 
@@ -101,6 +101,7 @@ I'm continuously expanding my skills through:
 
 <div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=shrinivas-sn)
 ![GitHub followers](https://img.shields.io/github/followers/shrinivas-sn?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/shrinivas-sn?style=social)
 

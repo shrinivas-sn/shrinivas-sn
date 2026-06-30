@@ -66,6 +66,7 @@ A React application that helps users refine and optimize their AI prompts for be
 
 - **Tech Stack:** React, JavaScript
 - **Features:** Prompt optimization, real-time suggestions, AI integration, user-friendly interface
+- **Live App:** [https://my-promptly-app.lovable.app/](https://my-promptly-app.lovable.app/)
 - **This Repository is Private Repository**
 
 ---

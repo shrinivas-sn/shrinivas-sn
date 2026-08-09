@@ -4,8 +4,6 @@
 
 B.E. Electronics & Communication student at KLE Technological University. Ex-intern at Avantro Labs. I build web apps and APIs.
 
-<h3>My GitHub Contributions</h3>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true&v=9" alt="GitHub Streak" />
 
 
@@ -21,7 +19,9 @@ B.E. Electronics & Communication student at KLE Technological University. Ex-int
 
 ## About Me
 
-I build web apps and APIs, usually with AI tools in the loop to move faster — the planning and the decisions are mine. My mandi-api project, a free API for Indian agricultural market prices, got merged into [public-apis](https://github.com/public-apis/public-apis) (GitHub's 4th most-starred repository) as [PR #6789](https://github.com/public-apis/public-apis/pull/6789).
+I use AI tools while I build, but the planning and the decisions are mine.
+
+mandi-api, my free API for Indian agricultural market prices, is listed in [public-apis](https://github.com/public-apis/public-apis) (GitHub's 4th most-starred repository) after [PR #6789](https://github.com/public-apis/public-apis/pull/6789) was merged.
 
 ---
 
@@ -48,40 +48,36 @@ I build web apps and APIs, usually with AI tools in the loop to move faster — 
 ## Featured Projects
 
 ### 1. Mandi Price API
-Free, keyless REST API for daily agricultural mandi (wholesale market) prices across 5 Indian states, sourced from `data.gov.in`.
+Free, keyless REST API for daily agricultural mandi (wholesale market) prices across 5 Indian states, sourced from `data.gov.in`. Rate-limited, with a live playground and docs.
 
 [![Live API](https://img.shields.io/website?url=https%3A%2F%2Fmandi-api.vercel.app&label=API%20status&style=flat-square)](https://mandi-api.vercel.app)
 [![Merged PR](https://img.shields.io/badge/public--apis-merged%20PR-success?style=flat-square&logo=github)](https://github.com/public-apis/public-apis/pull/6789)
 
-- **Tech Stack:** React, Node.js, Express, Supabase, GitHub Actions (daily automated ingestion)
-- **Features:** No signup or API key, daily-refreshed government data, rate-limited, live developer playground with docs
-- **Live App:** [mandi-api.vercel.app](https://mandi-api.vercel.app)
-- **Repository:** [GitHub Repository](https://github.com/shrinivas-sn/mandi-api)
+- **Stack:** React, Node.js, Express, Supabase, GitHub Actions (daily automated ingestion)
+- **Live:** [mandi-api.vercel.app](https://mandi-api.vercel.app)
+- **Code:** [shrinivas-sn/mandi-api](https://github.com/shrinivas-sn/mandi-api)
 
 ### 2. Calendar API
-Free REST API for Indian holiday calendars — central and state-level (Karnataka, Maharashtra, and more) — no keys or signups.
+Free REST API for Indian holiday calendars, central and state-level (Karnataka, Maharashtra, and more), with no keys or signups. It merges the central and state lists into one deduplicated, chronological response, and gets leap years right.
 
 [![Live API](https://img.shields.io/website?url=https%3A%2F%2Fcalendar-api-web.vercel.app&label=API%20status&style=flat-square)](https://calendar-api-web.vercel.app)
 
-- **Tech Stack:** React, Node.js, Express
-- **Features:** Central + state-level holiday merging, leap-year-safe calendar generation, deduplicated chronological output
-- **Live App:** [calendar-api-web.vercel.app](https://calendar-api-web.vercel.app/)
-- **Repository:** [GitHub Repository](https://github.com/shrinivas-sn/calendar-api)
+- **Stack:** React, Node.js, Express
+- **Live:** [calendar-api-web.vercel.app](https://calendar-api-web.vercel.app/)
+- **Code:** [shrinivas-sn/calendar-api](https://github.com/shrinivas-sn/calendar-api)
 
 ### 3. Promptly (Prompt Perfector)
-React app for refining AI prompts — built for people who work with AI tools and want better results out of them.
+React app for refining AI prompts, with suggestions as you type.
 
-- **Tech Stack:** React, JavaScript
-- **Features:** Prompt optimization, real-time suggestions, AI integration
-- **Live App:** [my-promptly-app.lovable.app](https://my-promptly-app.lovable.app/)
-- **This Repository is Private Repository**
+- **Stack:** React, JavaScript
+- **Live:** [my-promptly-app.lovable.app](https://my-promptly-app.lovable.app/)
+- **Code:** private repo
 
 ### 4. Rural Student Portal
-Student record portal built for rural schools — centralized records, accessible from any device.
+Student records portal for rural schools. Keeps records in one place with role-based access, and works on any device.
 
-- **Tech Stack:** React, TypeScript
-- **Features:** Centralized student record management, role-based access
-- **Repository:** [GitHub Repository](https://github.com/shrinivas-sn/rural-student-portal)
+- **Stack:** React, TypeScript
+- **Code:** [shrinivas-sn/rural-student-portal](https://github.com/shrinivas-sn/rural-student-portal)
 
 ---
 
@@ -99,12 +95,4 @@ Student record portal built for rural schools — centralized records, accessibl
 
 ## Reach Out
 
-Open to freelance work and collaboration.
-
-- 📧 **Email:** shrinusn2001@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/shrinivas-nemagoudar](https://www.linkedin.com/in/shrinivas-nemagoudar/)
-- 🐙 **GitHub:** [@shrinivas-sn](https://github.com/shrinivas-sn)
-- 🧑‍💻 **Developer Portfolio:** [shrinivasn.com](https://www.shrinivasn.com)
-- 🧰 **Freelance Portfolio:** [work.shrinivasn.com](https://work.shrinivasn.com)
-
----
+Open to freelance work and collaboration. Email me at [shrinusn2001@gmail.com](mailto:shrinusn2001@gmail.com), or use the links at the top of this page.

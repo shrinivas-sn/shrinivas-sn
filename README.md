@@ -19,8 +19,6 @@ B.E. Electronics & Communication student at KLE Technological University. Ex-int
 
 ## About Me
 
-I use AI tools while I build, but the planning and the decisions are mine.
-
 mandi-api, my free API for Indian agricultural market prices, is listed in [public-apis](https://github.com/public-apis/public-apis) (GitHub's 4th most-starred repository) after [PR #6789](https://github.com/public-apis/public-apis/pull/6789) was merged.
 
 ---

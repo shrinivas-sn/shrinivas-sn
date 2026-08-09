@@ -14,6 +14,8 @@ Building modern web applications with a focus on clean code, user experience, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-nemagoudar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinusn2001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.shrinivasn.com)
+[![Freelance](https://img.shields.io/badge/Freelance-4B0082?style=for-the-badge&logo=briefcase&logoColor=white)](https://work.shrinivasn.com)
 
 </div>
 
@@ -21,7 +23,7 @@ Building modern web applications with a focus on clean code, user experience, an
 
 ## 🎯 About Me
 
-I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex [...]
+I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on building practical, user-centric web applications. I leverage AI assistance to accelerate development and solve complex real-world problems — from building and shipping my own open-source APIs to getting them merged into community projects used by other developers.
 
 ---
 
@@ -47,27 +49,41 @@ I'm a passionate **Web Developer** and **AI-Native Problem Solver** focusing on 
 
 ## 📚 Featured Projects
 
-### 1. **Student Portal Web App** 📚
-A comprehensive interactive web application designed to help school teachers manage and access student information efficiently from anywhere.
+### 1. **Mandi Price API** 🌾
+Free, open, keyless REST API serving daily agricultural mandi (wholesale market) prices across 5 major Indian states, sourced from the Government of India's open data portal (`data.gov.in`). Merged into [**public-apis**](https://github.com/public-apis/public-apis) — the 4th most-starred repository on GitHub — making it discoverable to developers worldwide.
 
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Student database management, real-time access, responsive design
-- **Repository Link:** [GitHub Repository](https://github.com/shrinivas-sn/Student-portal-web-app)
+[![Live API](https://img.shields.io/website?url=https%3A%2F%2Fmandi-api.vercel.app&label=API%20status&style=flat-square)](https://mandi-api.vercel.app)
+[![Merged PR](https://img.shields.io/badge/public--apis-merged%20PR-success?style=flat-square&logo=github)](https://github.com/public-apis/public-apis/pull/6789)
 
-### 2. **Budget-Buddy** 💰
-A React-based personal finance management application designed to help users track their spending, manage budgets, and achieve their financial goals with ease.
+- **Tech Stack:** React, Node.js, Express, Supabase, GitHub Actions (daily automated ingestion)
+- **Features:** No signup/API key required, daily-refreshed government data, rate-limited, interactive developer playground with live docs
+- **Live App:** [mandi-api.vercel.app](https://mandi-api.vercel.app)
+- **Repository:** [GitHub Repository](https://github.com/shrinivas-sn/mandi-api)
 
-- **Tech Stack:** React, JavaScript
-- **Features:** Budget tracking, expense categorization, financial insights, responsive design
-- **This Repository is Private Repository**
+### 2. **Calendar API** 📅
+Free, open-source REST API for Indian holiday calendars — central and state-level (e.g. Karnataka, Maharashtra) — with no API keys, signups, or rate limits.
 
-### 3. **Prompt Perfector** ✨
-A React application that helps users refine and optimize their AI prompts for better results. Perfect for anyone working with AI tools and looking to improve their prompt engineering skills.
+[![Live API](https://img.shields.io/website?url=https%3A%2F%2Fcalendar-api-web.vercel.app&label=API%20status&style=flat-square)](https://calendar-api-web.vercel.app)
+
+- **Tech Stack:** React, Node.js, Express
+- **Features:** Central + state-level holiday merging, leap-year-safe calendar generation, deduplicated chronological output
+- **Live App:** [calendar-api-web.vercel.app](https://calendar-api-web.vercel.app/)
+- **Repository:** [GitHub Repository](https://github.com/shrinivas-sn/calendar-api)
+
+### 3. **Promptly (Prompt Perfector)** ✨
+A React application that helps users refine and optimize their AI prompts for better results — built for anyone working with AI tools who wants to improve their prompt engineering.
 
 - **Tech Stack:** React, JavaScript
 - **Features:** Prompt optimization, real-time suggestions, AI integration, user-friendly interface
-- **Live App:** [https://my-promptly-app.lovable.app/](https://my-promptly-app.lovable.app/)
+- **Live App:** [my-promptly-app.lovable.app](https://my-promptly-app.lovable.app/)
 - **This Repository is Private Repository**
+
+### 4. **Rural Student Portal** 🎓
+A comprehensive student portal built to help rural schools manage and access student records efficiently from anywhere, on any device.
+
+- **Tech Stack:** React, TypeScript
+- **Features:** Centralized student record management, role-based access, responsive design
+- **Repository:** [GitHub Repository](https://github.com/shrinivas-sn/rural-student-portal)
 
 ---
 
@@ -122,5 +138,7 @@ I'm always open to:
 - 📧 **Email:** shrinusn2001@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/shrinivas-nemagoudar](https://www.linkedin.com/in/shrinivas-nemagoudar/)
 - 🐙 **GitHub:** [@shrinivas-sn](https://github.com/shrinivas-sn)
+- 🧑‍💻 **Developer Portfolio:** [shrinivasn.com](https://www.shrinivasn.com)
+- 🧰 **Freelance Portfolio:** [work.shrinivasn.com](https://work.shrinivasn.com)
 
 ---

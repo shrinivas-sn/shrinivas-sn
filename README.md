@@ -2,7 +2,7 @@
 
 ## Activity
 
-<a href="https://github.com/shrinivas-sn"><img src="https://github-readme-stats.vercel.app/api?username=shrinivas-sn&show_icons=true&hide_border=true&border_radius=12&bg_color=13151C&title_color=C9A76A&text_color=EDEFF3&icon_color=5C7A99&hide=stars&count_private=true&disable_animations=true&commits_year=2026&custom_title=GitHub%20stats" width="49%" alt="GitHub stats" /></a>
+<a href="https://github.com/shrinivas-sn"><img src="https://github-readme-stats.vercel.app/api?username=shrinivas-sn&show_icons=true&hide_border=true&border_radius=12&bg_color=13151C&title_color=C9A76A&text_color=EDEFF3&icon_color=5C7A99&hide=stars&count_private=true&disable_animations=true&commits_year=2026&hide_rank=true&custom_title=GitHub%20stats" width="49%" alt="GitHub stats" /></a>
 <a href="https://github.com/shrinivas-sn"><img src="https://streak-stats.demolab.com/?user=shrinivas-sn&hide_border=true&border_radius=12&background=13151C&ring=C9A76A&fire=C9A76A&currStreakNum=EDEFF3&currStreakLabel=C9A76A&sideNums=EDEFF3&sideLabels=8D93A3&dates=8D93A3&stroke=272B38" width="49%" alt="GitHub streak" /></a>
 
 ## Stack

@@ -1,0 +1,25 @@
+# Refreshes assets/stats.svg daily and renames its last row to "Contributed across repos"
+name: Refresh stats card
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch card and rename label
+        run: |
+          curl -sfL "https://github-readme-stats.vercel.app/api?username=shrinivas-sn&show_icons=true&hide_border=true&border_radius=12&bg_color=13151C&title_color=C9A76A&text_color=EDEFF3&icon_color=5C7A99&hide=stars,commits,prs&show=prs_merged&line_height=28&card_width=398&count_private=true&disable_animations=true&hide_rank=true&custom_title=GitHub%20stats" -o /tmp/stats.svg
+          grep -q "Total PRs Merged" /tmp/stats.svg   # skip if the service returned an error card
+          sed -i 's/Contributed to (last year)/Contributed across repos/g' /tmp/stats.svg
+          if ! cmp -s /tmp/stats.svg assets/stats.svg; then
+            cp /tmp/stats.svg assets/stats.svg
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "Refresh stats card"
+            git push
+          fi

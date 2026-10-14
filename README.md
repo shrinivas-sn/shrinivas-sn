@@ -1,90 +1,43 @@
-# Hi, I'm Shrinivas
+<img src="./assets/header.svg" width="100%" alt="Shrinivas Nemagoudar, AI-native app developer. Free, keyless APIs on Indian open data, and small tools for developers." />
 
-<div align="center">
+## Activity
 
-B.E. Electronics & Communication student at KLE Technological University. Ex-intern at Avantro Labs. I build web apps and APIs.
+<a href="https://github.com/shrinivas-sn"><img src="https://github-readme-stats.vercel.app/api?username=shrinivas-sn&show_icons=true&hide_border=true&border_radius=12&bg_color=13151C&title_color=C9A76A&text_color=EDEFF3&icon_color=5C7A99&hide=stars&count_private=true&disable_animations=true&custom_title=GitHub%20stats" width="49%" alt="GitHub stats" /></a>
+<a href="https://github.com/shrinivas-sn"><img src="https://streak-stats.demolab.com/?user=shrinivas-sn&hide_border=true&border_radius=12&background=13151C&ring=C9A76A&fire=C9A76A&currStreakNum=EDEFF3&currStreakLabel=C9A76A&sideNums=EDEFF3&sideLabels=8D93A3&dates=8D93A3&stroke=272B38" width="49%" alt="GitHub streak" /></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivas-sn&theme=dark&hide_border=true&v=9" alt="GitHub Streak" />
+## Stack
 
+<sub>BUILD</sub><br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=ts,js,react,nodejs,express,tailwind,html,css" height="34" alt="TypeScript, JavaScript, React, Node.js, Express, Tailwind, HTML, CSS" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinivas-nemagoudar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrinivas-sn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrinusn2001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.shrinivasn.com)
-[![Freelance](https://img.shields.io/badge/Freelance-4B0082?style=for-the-badge&logo=briefcase&logoColor=white)](https://work.shrinivasn.com)
+<sub>DATA &amp; CLOUD</sub><br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=supabase,postgres,firebase,cloudflare,vercel,githubactions,git" height="34" alt="Supabase, Postgres, Firebase, Cloudflare, Vercel, GitHub Actions, Git" />
 
-</div>
+[![shrinivasn.com](https://img.shields.io/badge/shrinivasn.com-13151C?style=for-the-badge&labelColor=13151C&color=13151C&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzlBNzZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyME0xMiAyYTE1IDE1IDAgMCAxIDAgMjBNMTIgMmExNSAxNSAwIDAgMCAwIDIwIi8+PC9zdmc+)](https://www.shrinivasn.com) [![Freelance](https://img.shields.io/badge/Freelance-13151C?style=for-the-badge&labelColor=13151C&color=13151C&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzlBNzZBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiIvPjwvc3ZnPg==)](https://work.shrinivasn.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-13151C?style=for-the-badge&labelColor=13151C&color=13151C&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjQzlBNzZBIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/shrinivas-nemagoudar-29a567219/) [![Email](https://img.shields.io/badge/contact@shrinivasn.com-13151C?style=for-the-badge&labelColor=13151C&color=13151C&logo=gmail&logoColor=C9A76A)](mailto:contact@shrinivasn.com)
 
----
+## Open data APIs
 
-## Tech Stack
+Five free, keyless APIs on Indian government data. All five are listed in [public-apis](https://github.com/public-apis/public-apis).
 
-### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
+<a href="https://github.com/shrinivas-sn/mandi-api"><img src="./assets/mandi.svg" width="100%" alt="Mandi Price API" /></a>
+<a href="https://github.com/shrinivas-sn/calendar-api"><img src="./assets/calendar.svg" width="49%" alt="Calendar API" /></a>
+<a href="https://github.com/shrinivas-sn/gst-hsn-sac-api"><img src="./assets/gst.svg" width="49%" alt="GST HSN and SAC API" /></a>
+<a href="https://github.com/shrinivas-sn/india-lgd-index-api"><img src="./assets/lgd.svg" width="49%" alt="India LGD Index API" /></a>
+<a href="https://github.com/shrinivas-sn/msp-benchmarks-api"><img src="./assets/msp.svg" width="49%" alt="MSP Benchmarks API" /></a>
 
-### Backend
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+## Developer tools
 
-### Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+<a href="https://github.com/shrinivas-sn/shri-harness"><img src="./assets/shri.svg" width="32%" alt="shri" /></a>
+<a href="https://github.com/shrinivas-sn/verify-claims"><img src="./assets/verify-claims.svg" width="32%" alt="verify-claims" /></a>
+<a href="https://github.com/shrinivas-sn/adapter-ingestion"><img src="./assets/adapter-ingestion.svg" width="32%" alt="adapter-ingestion" /></a>
 
----
+## Things I built for myself
 
-## Featured Projects
-
-### 1. Mandi Price API
-Free, keyless REST API for daily agricultural mandi (wholesale market) prices across 5 Indian states, sourced from `data.gov.in`. Rate-limited, with a live playground and docs.
-
-[![Live API](https://img.shields.io/website?url=https%3A%2F%2Fmandi-api.vercel.app&label=API%20status&style=flat-square)](https://mandi-api.vercel.app)
-[![Merged PR](https://img.shields.io/badge/public--apis-merged%20PR-success?style=flat-square&logo=github)](https://github.com/public-apis/public-apis/pull/6789)
-
-- **Stack:** React, Node.js, Express, Supabase, GitHub Actions (daily automated ingestion)
-- **Live:** [mandi-api.vercel.app](https://mandi-api.vercel.app)
-- **Code:** [shrinivas-sn/mandi-api](https://github.com/shrinivas-sn/mandi-api)
-
-### 2. Calendar API
-Free REST API for Indian holiday calendars, central and state-level (Karnataka, Maharashtra, and more), with no keys or signups. It merges the central and state lists into one deduplicated, chronological response, and gets leap years right.
-
-[![Live API](https://img.shields.io/website?url=https%3A%2F%2Fcalendar-api-web.vercel.app&label=API%20status&style=flat-square)](https://calendar-api-web.vercel.app)
-
-- **Stack:** React, Node.js, Express
-- **Live:** [calendar-api-web.vercel.app](https://calendar-api-web.vercel.app/)
-- **Code:** [shrinivas-sn/calendar-api](https://github.com/shrinivas-sn/calendar-api)
-
-### 3. Promptly (Prompt Perfector)
-React app for refining AI prompts, with suggestions as you type.
-
-- **Stack:** React, JavaScript
-- **Live:** [my-promptly-app.lovable.app](https://my-promptly-app.lovable.app/)
-- **Code:** private repo
-
-### 4. Rural Student Portal
-Student records portal for rural schools. Keeps records in one place with role-based access, and works on any device.
-
-- **Stack:** React, TypeScript
-- **Code:** [shrinivas-sn/rural-student-portal](https://github.com/shrinivas-sn/rural-student-portal)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=shrinivas-sn)
-![GitHub followers](https://img.shields.io/github/followers/shrinivas-sn?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/shrinivas-sn?style=social)
-
-</div>
-
----
-
-## Reach Out
-
-Open to freelance work and collaboration. Email me at [shrinusn2001@gmail.com](mailto:shrinusn2001@gmail.com), or use the links at the top of this page.
+| App | What it does |
+|---|---|
+| [**Gearwright**](https://shrinivas-sn.github.io/gearwright/) | A third-person mechanical puzzle game in three.js |
+| [**Model Bench**](https://model-bench.shrinu.workers.dev/) | Compare AI models on published benchmark scores |
+| [**Promptly**](https://my-promptly-app.lovable.app/) | Turns a rough idea into a structured PRD for AI builders |
+| [**Budget Buddy**](https://budget-buddy-seven-jet.vercel.app) | Tracks my expenses and investments |
+| [**To-do**](https://shrinu-to-do.vercel.app) | My daily task app |
+| [**Smart Local Finder**](https://smart-local-guide.vercel.app) | Discover places near you |

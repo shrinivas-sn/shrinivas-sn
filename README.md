@@ -17,19 +17,41 @@
 
 ## Open data APIs
 
-Five free, keyless APIs on Indian government data. All five are listed in [public-apis](https://github.com/public-apis/public-apis).
+<!-- osc-apis:start -->
+Six free, keyless APIs on Indian government data. All six are listed in [public-apis](https://github.com/public-apis/public-apis).
 
-<a href="https://github.com/shrinivas-sn/mandi-api"><img src="./assets/mandi.svg" width="100%" alt="Mandi Price API" /></a>
+<a href="https://github.com/shrinivas-sn/mandi-api"><img src="./assets/mandi-card.svg" width="49%" alt="Mandi Price API" /></a>
 <a href="https://github.com/shrinivas-sn/calendar-api"><img src="./assets/calendar.svg" width="49%" alt="Calendar API" /></a>
+<a href="https://github.com/shrinivas-sn/ev-charging-stations-api"><img src="./assets/ev-charging.svg" width="49%" alt="EV Charging API" /></a>
 <a href="https://github.com/shrinivas-sn/gst-hsn-sac-api"><img src="./assets/gst.svg" width="49%" alt="GST HSN and SAC API" /></a>
 <a href="https://github.com/shrinivas-sn/india-lgd-index-api"><img src="./assets/lgd.svg" width="49%" alt="India LGD Index API" /></a>
 <a href="https://github.com/shrinivas-sn/msp-benchmarks-api"><img src="./assets/msp.svg" width="49%" alt="MSP Benchmarks API" /></a>
+<!-- osc-apis:end -->
 
 ## Developer tools
 
 <a href="https://github.com/shrinivas-sn/shri-harness"><img src="./assets/shri.svg" width="32%" alt="shri" /></a>
 <a href="https://github.com/shrinivas-sn/verify-claims"><img src="./assets/verify-claims.svg" width="32%" alt="verify-claims" /></a>
 <a href="https://github.com/shrinivas-sn/adapter-ingestion"><img src="./assets/adapter-ingestion.svg" width="32%" alt="adapter-ingestion" /></a>
+
+## Open source
+
+<!-- osc-contrib:start -->
+**294** pull requests merged across **17** open source repositories, in other people's repos, counted from my contribution trackers.
+
+| Repository | Merged PRs |
+|---|---:|
+| [SatyamPandey-07/WorkSphere](https://github.com/SatyamPandey-07/WorkSphere) | 209 |
+| [Harsh-vardhan09/AthLead](https://github.com/Harsh-vardhan09/AthLead) | 20 |
+| [KanishJebaMathewM/Truxify](https://github.com/KanishJebaMathewM/Truxify) | 16 |
+| [GauravKarakoti/Secureflow](https://github.com/GauravKarakoti/Secureflow) | 15 |
+| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | 7 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 6 |
+| [brekkylab/backlot](https://github.com/brekkylab/backlot) | 5 |
+| [AditthyaSS/iloveAgents](https://github.com/AditthyaSS/iloveAgents) | 3 |
+
+<sub>and 9 more repositories</sub>
+<!-- osc-contrib:end -->
 
 ## Things I built for myself
 

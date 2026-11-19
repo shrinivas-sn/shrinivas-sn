@@ -37,20 +37,20 @@ Six free, keyless APIs on Indian government data. All six are listed in [public-
 ## Open source
 
 <!-- osc-contrib:start -->
-**304** pull requests merged across **17** open source repositories, in other people's repos, counted from my contribution trackers.
+**307** pull requests merged across **18** open source repositories, in other people's repos, counted from my contribution trackers.
 
 | Repository | Merged PRs |
 |---|---:|
 | [SatyamPandey-07/WorkSphere](https://github.com/SatyamPandey-07/WorkSphere) | 212 |
 | [Harsh-vardhan09/AthLead](https://github.com/Harsh-vardhan09/AthLead) | 20 |
+| [GauravKarakoti/Secureflow](https://github.com/GauravKarakoti/Secureflow) | 17 |
 | [KanishJebaMathewM/Truxify](https://github.com/KanishJebaMathewM/Truxify) | 17 |
-| [GauravKarakoti/Secureflow](https://github.com/GauravKarakoti/Secureflow) | 16 |
 | [brekkylab/backlot](https://github.com/brekkylab/backlot) | 9 |
 | [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | 7 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 6 |
 | [AditthyaSS/iloveAgents](https://github.com/AditthyaSS/iloveAgents) | 3 |
 
-<sub>and 9 more repositories</sub>
+<sub>and 10 more repositories</sub>
 <!-- osc-contrib:end -->
 
 ## Things I built for myself
